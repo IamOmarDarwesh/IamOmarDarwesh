@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 50" width="260" height="50">
+  <style>
+    @keyframes pulse {
+      0%, 100% { transform: scale(1); }
+      50% { transform: scale(1.1); }
+    }
+    @keyframes bounce {
+      0%, 100% { transform: translateY(0); }
+      50% { transform: translateY(-3px); }
+    }
+    .icon {
+      animation: bounce 2s ease-in-out infinite;
+    }
+    .text {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+      font-size: 16px;
+      font-weight: 600;
+      fill: #24292f;
+      animation: pulse 2s ease-in-out infinite;
+    }
+    .link {
+      cursor: pointer;
+    }
+    @media (prefers-color-scheme: dark) {
+      .text {
+        fill: #f0f6fc;
+      }
+    }
+  </style>
+  <a href="https://iamomardarwesh.github.io/portfolio/" target="_blank">
+    <!-- External Link Icon -->
+    <g transform="translate(0, 10)" class="icon">
+      <path fill="currentColor" d="M14,5.5v7c0,1.657-1.343,3-3,3H4c-1.657,0-3-1.343-3-3v-7c0-1.657,1.343-3,3-3h7c.276,0,.5,.224,.5,.5s-.224,.5-.5,.5H4c-1.105,0-2,.895-2,2v7c0,1.105,.895,2,2,2h7c1.105,0,2-.895,2-2V5.5c0-.276,.224-.5,.5-.5s.5,.224,.5,.5Zm.5-3.5h-4c-.276,0-.5,.224-.5,.5s.224,.5,.5,.5h4c.132,0,.258,.031,.369,.084L6.854,9.146c-.195,.195-.195,.512,0,.707,.098,.098,.226,.146,.354,.146s.256-.049,.354-.146L13.353,3.354c.053,.112,.084,.237,.084,.369v4c0,.276,.224,.5,.5,.5s.5-.224,.5-.5V3.5c0-.787-.463-1.5-1.146-1.854-.164-.082-.346-.146-.538-.146Z"/>
+    </g>
+    <!-- Text -->
+    <text x="28" y="30" class="text">Check out my Portfolio →</text>
+  </a>
+</svg>
