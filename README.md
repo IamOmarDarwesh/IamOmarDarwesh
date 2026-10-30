@@ -113,13 +113,19 @@
 
 <br>
 
-| [![dbt](assets/imgs-icons-tools&technologies/dbt.svg "dbt")](https://www.getdbt.com/) | [![BigQuery](assets/imgs-icons-tools&technologies/BigQuery.svg "BigQuery")](https://cloud.google.com/bigquery) | [![Databricks](assets/imgs-icons-tools&technologies/Databricks.svg "Databricks")](https://www.databricks.com/) | [![PostgreSQL](assets/imgs-icons-tools&technologies/Postgresql.svg "PostgreSQL")](https://www.postgresql.org/) |
+| [![Fivetran](assets/imgs-icons-tools&technologies/Fivetran.svg "Fivetran")](https://www.fivetran.com/) | [![Airbyte](assets/imgs-icons-tools&technologies/Airbyte.svg "Airbyte")](https://airbyte.com/) | [![Docker](assets/imgs-icons-tools&technologies/Docker.svg "Docker")](https://www.docker.com/) | [![dbt](assets/imgs-icons-tools&technologies/dbt.svg "dbt")](https://www.getdbt.com/) |
 |:--:|:--:|:--:|:--:|
-| dbt | BigQuery | Databricks | PostgreSQL |
+| Fivetran | Airbyte | Docker | dbt |
 
-| [![Docker](assets/imgs-icons-tools&technologies/Docker.svg "Docker")](https://www.docker.com/) | [![Apache Airflow](assets/imgs-icons-tools&technologies/Airflow.svg "Apache Airflow")](https://airflow.apache.org/) | [![Apache Kafka](assets/imgs-icons-tools&technologies/Kafka.svg "Apache Kafka")](https://kafka.apache.org/) | [![Apache Spark](assets/imgs-icons-tools&technologies/Spark.svg "Apache Spark")](https://spark.apache.org/) |
+| [![BigQuery](assets/imgs-icons-tools&technologies/BigQuery.svg "BigQuery")](https://cloud.google.com/bigquery) | [![Databricks](assets/imgs-icons-tools&technologies/Databricks.svg "Databricks")](https://www.databricks.com/) | [![Apache Spark](assets/imgs-icons-tools&technologies/Spark.svg "Apache Spark")](https://spark.apache.org/) | [![Apache Airflow](assets/imgs-icons-tools&technologies/Airflow.svg "Apache Airflow")](https://airflow.apache.org/) |
 |:--:|:--:|:--:|:--:|
-| Docker | Airflow | Kafka | Spark |
+| BigQuery | Databricks | Spark | Airflow |
+
+| [![Apache Kafka](assets/imgs-icons-tools&technologies/Kafka.svg "Apache Kafka")](https://kafka.apache.org/) | [![Microsoft Fabric](assets/imgs-icons-tools&technologies/Microsoft-Fabric.svg "Microsoft Fabric")](https://www.microsoft.com/en-us/microsoft-fabric) | [![PostgreSQL](assets/imgs-icons-tools&technologies/Postgresql.svg "PostgreSQL")](https://www.postgresql.org/) |
+|:--:|:--:|:--:|
+| Kafka | Microsoft Fabric | PostgreSQL |
+
+
 
 <br>
 <br>
@@ -131,6 +137,9 @@
 <br>
 <br>
 <br>
+
+
+
 
 <!--
 
@@ -261,6 +270,7 @@
 [![Apache Airflow](assets/imgs-icons-tools&technologies/Airflow.svg "Apache Airflow")](https://airflow.apache.org/)&nbsp;&nbsp;
 [![Apache Kafka](assets/imgs-icons-tools&technologies/Kafka.svg "Apache Kafka")](https://kafka.apache.org/)&nbsp;&nbsp;
 [![Apache Spark](assets/imgs-icons-tools&technologies/Spark.svg "Apache Spark")](https://spark.apache.org/)
+
 
 <br>
 <br>
